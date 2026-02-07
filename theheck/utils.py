@@ -306,7 +306,7 @@ def get_installation_version():
 
 
 def get_alias():
-    return os.environ.get('TF_ALIAS', 'fuck')
+    return os.environ.get('TF_ALIAS', 'heck')
 
 
 @memoize
