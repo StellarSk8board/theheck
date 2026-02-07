@@ -1,7 +1,8 @@
 The MIT License (MIT)
 =====================
 
-Copyright (c) 2015-2022 Vladimir Iakovlev
+Copyright (c) 2015-2022 Vladimir Iakovlev (original TheFuck)
+Copyright (c) 2026 Blair / Eythos Foundation (TheHeck fork)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
